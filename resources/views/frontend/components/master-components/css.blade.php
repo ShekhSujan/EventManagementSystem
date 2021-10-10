@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="{{asset("assets/frontend/css/all.min.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/flaticon.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/animate.min.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/bootstrap.min.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/jquery.fancybox.min.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/perfect-scrollbar.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/slick.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/style.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/responsive.css")}}">
+<link rel="stylesheet" href="{{asset("assets/frontend/css/color.css")}}">
